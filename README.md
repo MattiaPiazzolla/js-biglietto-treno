@@ -11,14 +11,14 @@ Numero minimo di push: 6
 
 SCOMPOSIZIONE IN SOTTOPROBLEMI
 
->creare una variabile km 
+>definire una variabile km 
     >>attribuirle come valore il dato ottenuto attraverso un prompt
->creare una variabile age
+>definire una variabile age
     >>attribuirle come valore il dato ottenuto attraverso un prompt
->creare una variabile price
+>definire una variabile price
     >>attribuirle come valore il risultato del calcolo ottenuto moltiplicando il numero di chilometri da precorrere dall'utente con 0,21 
->creare una variabile per definire lo sconto del 20% (che verrà applicato per i minerenni)
->creare una variabile per definire lo sconto del 40% (che verrà applicato per gli over 60)
->creare delle condizione che vadano ad applicare gli sconti nei casi in cui necessario
->utilizzando template literals, crea una frase per restiuire una frase contente il prezzo del biglietto finale
->creare la struttura html per ospitare ed esporre al meglio queste informazioni
+>definire una variabile per definire lo sconto 
+>definire delle condizioni che vadano ad applicare gli sconti nei casi in cui necessario
+    >>eseguire il calcolo per sottrarre il 20% del prezzo base al prezzo base e definire il prezzo scontato del 20% se age è inferiore a 18
+    >>eseguire il calcolo per sottrarre il 40% del prezzo base al prezzo base e definire il prezzo scontato del 40% se age è superiore a 65
+>utilizzando template literals, crea una frase per restiuire una frase contente il prezzo del biglietto finale.
