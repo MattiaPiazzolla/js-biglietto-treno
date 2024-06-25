@@ -9,3 +9,12 @@ let price = km * 0.21;
 let discount20 = price - (price / 100 * 20);
 let discount40 = price - (price / 100 * 40);
 
+
+// Condition for the application of the discounts
+if (age < 18){
+    
+} else if (age > 65){
+
+} else {
+
+}

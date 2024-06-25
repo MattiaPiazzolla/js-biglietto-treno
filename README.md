@@ -17,7 +17,7 @@ SCOMPOSIZIONE IN SOTTOPROBLEMI
     >>attribuirle come valore il dato ottenuto attraverso un prompt
 >creare una variabile price
     >>attribuirle come valore il risultato del calcolo ottenuto moltiplicando il numero di chilometri da precorrere dall'utente con 0,21 
->creare una variabile per definire lo sconto del 20% (che verrà applicato per i minori di 14 anni)
+>creare una variabile per definire lo sconto del 20% (che verrà applicato per i minerenni)
 >creare una variabile per definire lo sconto del 40% (che verrà applicato per gli over 60)
 >creare delle condizione che vadano ad applicare gli sconti nei casi in cui necessario
 >utilizzando template literals, crea una frase per restiuire una frase contente il prezzo del biglietto finale
